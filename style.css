@@ -150,5 +150,12 @@ body{
             }
         }
     }
+}
 
+@media screen and (max-width: 800px) {
+    main{
+        width: 83% !important;
+        height: 355px;
+        padding: 20px;
+    }
 }
