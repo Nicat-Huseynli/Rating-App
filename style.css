@@ -80,8 +80,8 @@ body{
                 }
 
                 div:hover{
-                    background-color: #fb7413;
-                    color: black;
+                    background-color: #fb7413 !important;
+                    color: black !important;
                 }
             }
 
@@ -94,13 +94,14 @@ body{
                     background-color: #fb7413;
                     border-radius: 35px;
                     border: none;
+                    color: white !important;
                     text-transform: uppercase;
                     font-weight: bold;
                     transition: all .5s;
                 }
 
                 button:hover{
-                    background-color: white;
+                    background-color: white !important;
                 }
             }
         }
