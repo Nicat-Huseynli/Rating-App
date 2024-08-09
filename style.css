@@ -76,7 +76,7 @@ body{
                 }
 
                 .active{
-                    background-color: white;
+                    background-color: white !important;
                 }
 
                 div:hover{
