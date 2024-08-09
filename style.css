@@ -80,8 +80,8 @@ body{
                 }
 
                 div:hover{
-                    background-color: #fb7413 !important;
-                    color: black !important;
+                    background-color: #fb7413;
+                    color: black;
                 }
             }
 
